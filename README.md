@@ -6,7 +6,7 @@ Praitk Jivanji - pjiv657
 Liona Sadler - lsad313
 
 ----------------------------------------------------------------------------------------------------------------------
-1. int, bool, str
+1. integer, boolean, string
 
 2.(random)
 letter,
