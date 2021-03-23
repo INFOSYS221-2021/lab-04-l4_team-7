@@ -56,5 +56,5 @@ function takes the board and 'draws' it; placing letters in their cells by print
 it initiates the board, player and computer letters
 gets who is going first
 and starts the game by setting gameIsPlaying to TRUE
-
+==> in an ininite loop
 
