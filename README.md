@@ -49,7 +49,7 @@ function takes the board and 'draws' it; placing letters in their cells by print
 
 8. Checks the board, in all possible ways if the letter each cell is the same in any coloumn/diagonal/row
 
-9. It will stop the game from running => makes the while condition invalid/ False
+9. It will stop the game from running => makes the while condition invalid/ False (but doesn't change execution)
 
 
 10. while True:
